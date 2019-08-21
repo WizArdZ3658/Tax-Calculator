@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="mail">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre64/lib/ext/mail.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre64/lib/ext/smtp.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre64/lib/ext/activation.jar!/" />
+      <root url="file://$USER_HOME$/Desktop" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre64/lib/ext/svg-7.1.3.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre64/lib/ext/barcodes-7.1.3.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre64/lib/ext/forms-7.1.3.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre64/lib/ext/kernel-7.1.3.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre64/lib/ext/layout-7.1.3.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre64/lib/ext/pdfa-7.1.3.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre64/lib/ext/pdftest-7.1.3.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre64/lib/ext/sign-7.1.3.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre64/lib/ext/styled-xml-parser-7.1.3.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre64/lib/ext/io-7.1.3.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre64/lib/ext/itextpdf-5.5.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Desktop" recursive="false" />
+  </library>
+</component>
